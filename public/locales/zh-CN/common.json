@@ -1,0 +1,370 @@
+{
+  "projectName": "성원 푸드몰",       
+  "title": "标题",
+  "hello": "很高兴见到你",
+  "gotohome" : "回家",
+  "gotoabout" : "至介绍页",
+  "locale": {
+    "locale_kr": "한국어",
+    "locale_en": "English",
+    "locale_ja": "日本語",
+    "locale_cn": "中语"
+  },
+
+  "common" : {
+    "navname" : {
+      "home" : "家",
+      "login" :"登录",
+      "logout" :"登出",
+      "party" : "宴会厅",
+      "rooms" : "客房",
+      "reservation" : "预订",
+      "intro" : "关于我们",
+      "access" : "使用权",
+      "information" : "指导",
+      "sns" : "热门SNS",
+      "inquiry" : "联系我们",
+      "contactus" : "电话号码",
+      "search" : "搜索",
+      "signup" : "加入会员"
+    },
+    "header" : {
+      "info_menu_1" : "ご利用案内",
+      "info_menu_2" : "公告",
+      "info_menu_3" : "FAQ",
+      "info_menu_4" : "联系我们"
+    },
+    "menu" : {
+      "footer_menu_1" : "使用条款",
+      "footer_menu_2" : "隐私政策",
+      "footer_menu_3" : "信息使用",
+      "footer_menu_4" : "进店查询"
+    },
+    "floor" : {
+      "leftfloor" : "食品商场",
+      "rightfloor" : "斯塔拉克",
+      "foodmall_1f" : "阿特利",
+      "foodmall_2f" : "苏西奥",
+      "foodmall_3f" : "成元亭",
+      "foodmall_5f" : "屋顶花园",
+      "stayrak_2f" : "餐厅",
+      "stayrak_3f" : "自助餐",
+      "stayrak_4f" : "客房",
+      "stayrak_11f" : "宴会厅"
+    },
+    "banquet" : {
+      "floor_12" : "中規模接触",
+      "floor_11" : "小規模接触",
+      "floor_3" : "小規模接触"
+    },
+    "word" : {
+      "man" : "人",
+      "prev" : "上一屏幕",
+      "next" : "下一个屏幕",
+      "confirm" : "查看",
+      "cancel" : "消除",
+      "close" : "关闭",
+      "weekly" : {
+        "sunday" : "周日",
+        "monday" : "周一",
+        "tuesday" : "周二",
+        "wednesday" : "周三",
+        "thursday" : "周四", 
+        "friday" : "周五",
+        "saturday" : "周六"
+      },
+      "won" : "￦"
+    }
+  },
+  "main" : {
+    "information" : {
+      "main_1_title" : "公告",
+      "main_2_title" : "客户服务",
+      "info_menu_1" : "FAQ",
+      "info_menu_2" : "使用权",
+      "info_menu_3" : "接触"
+    }
+  },
+  "sub" : {
+    "quickmenu" : {
+      "sungwonjung" : "储存信息",
+      "banquet" : "宴会厅信息",
+      "room" : "房间信",
+      "event" : "事件",
+      "reservation" : "即时预订"
+    },
+    "banquet_detail" : {
+      "middle_12_desc_1" : "这是位于 Stayrak Hotel 12 楼的中型宴会厅，可根据目的举办各种类型的活动",
+      "middle_12_desc_2" : "如派对、研讨会和最多 120 人的招待会。",
+      "small_11_desc_1" : "这是位于这是位于 Stayrak Hotel 11楼的小型宴会厅，可根据目的举办各种类型的活动，",
+      "small_11_desc_2" : "例如派对、研讨会和最多120人的招待会。",
+      "small_3_desc_1" : "这是位于Stayrak Hotel 3楼的小型宴会厅，可根据目的举办各种类型的活动，나",
+      "small_3_desc_2" : "例如派对、研讨会和最多120人的招待会。",
+      "more" : "查看更多"
+    },
+    "rooms_detail" : {
+      "room_type" : {
+        "studio_room" : "工作室",
+        "deluxe_room" : "豪华房室",
+        "suite_room" : "甜的室"
+      },
+      "room_info_title" : {
+        "studio_room" : "简约现代的房间，以现代方式重新诠释东方元素",
+        "deluxe_room" : "简约现代的房间，以现代方式重新诠释东方元素",
+        "suite_room" : "简约现代的房间，以现代方式重新诠释东方元素"
+      },
+      "room_desc" : {
+        "double" : "双倍的",
+        "twin" : "双胞胎",
+        "triple" : "三倍",
+        "max": "最大",
+        "man" : "人",
+        "namsan" : "南山",
+        "city" :"城市景观"
+      }
+    },
+    "popup" : {
+      "rooms_title" : {
+        "use_info" : "信息使用",
+        "room_service" : "客房服务",
+        "amenity" : "便利设施",
+        "notice" : "公告"
+      },
+      "room_service" : {
+        "service_1" : "客房 Iot",
+        "service_1_2" : "控制平板电脑",
+        "service_2" : "空调系统",
+        "service_2_2" : "保持最佳湿度",
+        "service_3" : "热水垫",
+        "service_4" : "Wi-Fi",
+        "service_5" : "有线网络",
+        "service_6" : "LED TV",
+        "service_7" : "迷你吧",
+        "service_8" : "个人保险箱"
+      },
+      "amenity" : {
+        "amenity_1" : "错觉",
+        "amenity_1_2" : "饮料",
+        "amenity_2_1" : "各种各样的",
+        "amenity_2_2" : "茶 服务",
+        "amenity_3_1" : "顶级品质",
+        "amenity_3_2" : "寝具",
+        "amenity_4_1" : "电吹风",
+        "amenity_4_2" : "",
+        "amenity_5" : "电锅",
+        "amenity_6_1" : "浴缸",
+        "amenity_6_2" : "便利设施4类",
+        "amenity_7" : "浴衣",
+        "amenity_8" : "拖鞋"
+      },
+      "etc" : {
+        "checkin" : "报到",
+        "checkout" : "查看",
+        "notice" : "所有客房均指定为非吸烟区."
+      }
+    }
+  },
+  "reservation" : {
+    "force_input" : "所需输入",
+    "option_input" : "选项",
+    "option_input_desc" : "请选择所有选项",
+    "option_input_desc2" : "请选择您要添加的选项",
+    "information_text_1" : "请先选择时间表",
+    "user_name" : "预订名称",
+    "user_email" : "电子邮件",
+    "user_phone" : "电话号码",
+    "user_email_helptext" : "정请输入正确的电子邮件地址",
+    "user_phone_helptext" : "请仅输入数字",
+    "user_organ" : "主办单位",
+    "user_festival" : "活动名称",
+    "msg_step_1" : "请选择餐厅",
+    "msg_step_2" : "请选择日期",
+    "msg_step_2_2" : "请选择时间表",
+    "msg_step_3" : "请选择时间",
+    "msg_step_4" : "请选择人数",
+    "msg_step_5" : "请选择活动场地",
+    "msg_step_6" : "请选择房间及人数",
+    "msg_step_7": "请选择房型",
+    "title_step_1" : "餐厅",
+    "title_step_2" : "日期",
+    "title_step_3" : "时间",
+    "title_step_3_1" : "时",
+    "title_step_3_2" : "分",
+    "title_step_3_3" : "使用时间",
+    "title_time_allday" : "一整天",
+    "title_step_3_add" : "请先选择时间",
+    "title_step_4" : "人数",
+    "title_step_4_add" : "每间客房的入住人数",
+    "title_step_4_1" : "大人",
+    "title_step_4_2" : "小人",
+    "title_step_4_2_add" : "小人(~11岁)",
+    "title_step_5" : "活动场地",
+    "title_step_6" : "客房",
+    "title_reservation" : "预订",
+    "title_group_reservation" : "团体预订",
+    "title_room_reservation" : "客房予約",
+    "title_confirm" : "查看预订详情",
+    "title_base_four" : "预约信息",
+    "title_base_six" : "预订基本信息",
+    "group_part" : {
+      "floor_12" : "中規模接触",
+      "floor_11" : "小規模接触",
+      "floor_3" : "小規模接触"
+    },
+    "avene_type" : {
+      "type_1" : "商业",
+      "type_2" : "宴会",
+      "type_3" : "研讨会"
+    },
+    "gropu_part_title" : {
+      "fandb" : "F&B 类型",
+      "table_type" : "桌子 类型",
+      "base_supply" : "提供基本设施",
+      "add_supply" : "精选设施",
+      "gropu_menu_rent_price" : "宴会厅租赁费",
+      "gropu_menu_rent_price_add" : "基本的",
+      "gropu_menu_rent_price_add2" : "根据使用时间而变化",
+      "gropu_menu_entry_max" : "不同类型的最大容量",
+      "gropu_menu_seat" : "座位",
+      "gropu_menu_option_free" : "便利设施",
+      "gropu_menu_option_non_free" : "额外要求的设施（付费）",
+      "gropu_menu_list" : "菜单信息",
+      "gropu_menu_type" : "类型"
+    },
+    "gropu_default_option" : {
+      "main_title_1" : "音视频设备",
+      "main_title_2" : "便利设施",
+      "screen" : "屏幕",
+      "projector" : "光束投影仪",
+      "wireless_mike" : "无线麦克风",
+      "pin_mike" : "领夹式麦克风",
+      "phase" : "阶段",
+      "banner" : "横幅",
+      "hanger" : "衣架",
+      "blind" : "瞎的",
+      "partition" : "分割",
+      "parking" : "停车位"
+    },
+    "gropu_add_option" : {
+      "karaoke" : "卡拉OK机",
+      "karaoke_price" :  "(300,000￦)",
+      "amp" : "便携式放大器",
+      "amp_price" :  "(100,000￦)",
+      "television" : "便携式电视",
+      "television_price" :  "(100,000￦)",
+      "meal" : "提供膳食",
+      "meal_price" : "(单独加工)"
+    },
+    "dinner_information" : {
+      "selling_time" : "营业时间信息",
+      "title_holiday" : "休息日",
+      "holiday" : "定期休息（每周日）",
+      "title_phone" : "接触",
+      "title_position" : "地点",
+      "title_entry_number" : "容量人数",
+      "max_120" : "最多 120人",
+      "menu" : "菜单",
+      "all_menu" : "完整菜单"
+    },
+    "room_gallery" : {
+      "mini_title" : "房间详情",
+      "day_per_price" : "￦/1晚",
+      "room_info_desc" : {
+        "studio_room" : "这间简约而现代的标准间拥有美丽的东方风格现代内饰和最优质的床上用品，让您感受到比想象中更满意的感觉다.",
+        "deluxe_room" : "这间简约而现代的标准间拥有美丽的东方风格现代内饰和最优质的床上用品，让您感受到比想象中更满意的感觉.",
+        "suite_room" : "这间简约而现代的标准间拥有美丽的东方风格现代内饰和最优质的床上用品，让您感受到比想象中更满意的感觉."
+      },
+      "reservation_finished" : "预订截止日期"
+    },
+    "calendar_select" : "选择",
+    "calendar_disable" : "最后期限",
+    "calendar_today" : "今天",
+    "calendar_nights" : "晚",
+    "room_add_option" : {
+      "month_day" : "{{month}}月 {{day}}日",
+      "breakfast" : "早餐",
+      "desert_cake" : "蛋糕",
+      "desert_fruit" : "水果篮",
+      "desert_snack" : "茶点套餐",
+      "desert_wine" : "葡萄酒",
+      "per_breakfast" : "每人",
+      "location" : "Stayrak 3F",
+      "msg_select_day_person" : "请选择每次入住日期的入住人数",
+      "count" : "数量",
+      "room_service" : "要求客房服务"
+    },
+    "room_step_title" : {
+      "step_1" : "房间选择",
+      "step_2" : "输入信息并付款",
+      "step_3" : "预订完成"
+    },
+    "room_settle" : {
+      "total_price" : "付款总额",
+      "include_tax" : "包含增值税",
+      "room_price" : "房间数量",
+      "breakfast_price" : "早餐份量",
+      "option_price" : "附加选项金额",
+      "regist_custom_info" : "输入客户信息",
+      "regist_custom_info_msg" : "当每个房间的客人人数不同时",
+      "regist_custom_name" : "客人姓名",
+      "regist_custom_first_name" : "姓",
+      "regist_custom_second_name" : "名”",
+      "regist_custom_phone_country" : "国家代码",
+      "regist_custom_phone" : "电话号码",
+      "regist_custom_email" : "电子邮件地址",
+      "regist_custom_add_servie" : "额外要求(选择)",
+      "regist_custom_settle_info" : "支付信息",
+      "regist_custom_card_no" : "卡号",
+      "regist_custom_card_limit" : "有效期",
+      "regist_custom_settle_search" : "预订查询",
+      "regist_custom_settle_password" : "{{foreword}}密码{{aftreword}}",
+      "regist_custom_settle_confirm" : "查看",
+      "regist_custom_settle_password_msg" : "请输入您在检查预订时使用的密码。",
+      "regist_custom_settle_confirm_msg" : "请重新输入你的密码",
+      "regist_custom_cancel_rule" : "取消政策",
+      "regist_custom_cancel_rule_msg" : "信用卡信息将用于支付担保/罚金，房价将在后续办理入住时支付。",
+      "regist_custom_cancle_eight" : "入住前8天",
+      "regist_custom_cancle_three" : "入住前3天",
+      "regist_custom_cancle_two" : "入住前 2 天以及 No-Show",
+      "regist_custom_penalty_no" : "无取消费用",
+      "regist_custom_penalty_30" : "需支付总房费30%的费用",
+      "regist_custom_penalty_100" : "收取总房费的100%",
+      "regist_custom_agree_all" : "我同意所有付款条款和条件",
+      "regist_custom_agree_1" : "个人信息收集和使用的目的",
+      "regist_custom_agree_2" : "收集的个人信息项目",
+      "regist_custom_agree_3" : "个人信息的保留和使用期限",
+      "regist_custom_must":"(基本的)",
+      "regist_custom_read_view" : "查看全文"
+    }
+  },
+  "login" : {
+    "signin" : "登录",
+    "input_email" : "电子邮件",
+    "input_password" : "密码",
+    "input_userID" : "ID",
+    "title_welcome" : "{{name}}大大 欢迎",
+    "rememberme" : "记住账号",
+    "forgot_password" : "忘记密码",
+    "signup" : "加入会员"
+  },
+  "messages": {
+    "success": {
+      "created": "您已注册成功",
+      "updated": "已成功修复",
+      "deleted": "删除成功"
+    },
+    "info" : {
+      "reservation_1" : "请选择人数、日期、时间、地点",
+      "reservation_success" : "您的预订已完成。",
+      "reservation_failed" : "预订时发生错误。请稍后再试。"
+    },
+    "errors": {
+      "required": "这是一个必填字.",
+      "required_id": "ID 为必填字段.",
+      "required_pw": "密码是必填项.",
+      "invalidEmail": "这个电子邮件地址无效.",
+      "invalidCredential": "您输入的 ID 或密码不正确.",
+      "et_error": "发生错误."
+    }
+  }
+}

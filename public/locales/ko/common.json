@@ -1,0 +1,369 @@
+{
+  "projectName": "성원 푸드몰",   
+  "title": "타이틀",
+  "hello": "반가워",
+  "gotohome" : "홈으로",
+  "gotoabout" : "소개페이지로",
+  "locale": {
+    "locale_kr": "한국어",
+    "locale_en": "English",
+    "locale_ja": "日本語",
+    "locale_cn": "中语"
+  },
+  "common" : {
+    "navname" : {
+      "home" : "홈",
+      "login" :"로그인",
+      "logout" :"로그아웃",
+      "party" : "연회장",
+      "rooms" : "객실",
+      "reservation" : "예약",
+      "intro" : "회사소개",
+      "access" : "오시는길",
+      "information" : "안내",
+      "sns" : "Now SNS",
+      "inquiry" : "문의하기",
+      "contactus" : "연락처",
+      "search" : "검색",
+      "signup" : "회원가입"
+    },
+    "header" : {
+      "info_menu_1" : "이용안내",
+      "info_menu_2" : "공지사항",
+      "info_menu_3" : "FAQ",
+      "info_menu_4" : "1:1문의"
+    },
+    "menu" : {
+      "footer_menu_1" : "이용약관",
+      "footer_menu_2" : "개인정보처리방침",
+      "footer_menu_3" : "이용안내",
+      "footer_menu_4" : "입점문의"
+    },
+    "floor" : {
+      "leftfloor" : "푸드몰",
+      "rightfloor" : "스테이락",
+      "foodmall_1f" : "아뜰리에",
+      "foodmall_2f" : "스시노",
+      "foodmall_3f" : "성원정",
+      "foodmall_5f" : "루프가든",
+      "stayrak_2f" : "레스토랑",
+      "stayrak_3f" : "뷔폐",
+      "stayrak_4f" : "객실",
+      "stayrak_11f" : "연회장"
+    },
+    "banquet" : {
+      "floor_12" : "중규모연회장",
+      "floor_11" : "소규모연회장",
+      "floor_3" : "소규모연회장"
+    },
+    "word" : {
+      "man" : "명",
+      "prev" : "이전화면",
+      "next" : "다음",
+      "confirm" : "확인",
+      "cancel" : "취소",
+      "close" : "닫기",
+      "weekly" : {
+        "sunday" : "일",
+        "monday" : "월",
+        "tuesday" : "화",
+        "wednesday" : "수",
+        "thursday" : "목", 
+        "friday" : "금",
+        "saturday" : "토"
+      },
+      "won" : "원"
+    }
+  },
+  "main" : {
+    "information" : {
+      "main_1_title" : "알려드려요",
+      "main_2_title" : "고객서비스",
+      "info_menu_1" : "자주묻는질문",
+      "info_menu_2" : "오시는길",
+      "info_menu_3" : "연락처"
+    }
+  },
+  "sub" : {
+    "quickmenu" : {
+      "sungwonjung" : "매장 안내",
+      "banquet" : "연회장 안내",
+      "room" : "객실 안내",
+      "event" : "이벤트",
+      "reservation" : "바로예약"
+    },
+    "banquet_detail" : {
+      "middle_12_desc_1" : "스테이락 호텔 11층에 위치한 중규모 연회장으로 120명 규모의 파티, 세미나,",
+      "middle_12_desc_2" : "리셉션 등 목적에 따라 다양한 스타일의 행사가 가능합니다.",
+      "small_11_desc_1" : "스테이락 호텔 12층에 위치한 중규모 연회장으로 120명 규모의 파티, 세미나",
+      "small_11_desc_2" : "리셉션 등 목적에 따라 다양한 스타일의 행사가 가능합니다.",
+      "small_3_desc_1" : "스테이락 호텔 3층에 위치한 중규모 연회장으로 120명 규모의 파티, 세미나",
+      "small_3_desc_2" : "리셉션 등 목적에 따라 다양한 스타일의 행사가 가능합니다.",
+      "more" : "더보기"
+    },
+    "rooms_detail" : {
+      "room_type" : {
+        "studio_room" : "스튜디오 룸",
+        "deluxe_room" : "디럭스 룸",
+        "suite_room" : "스위트 룸"
+      },
+      "room_info_title" : {
+        "studio_room" : "동양적 요소를 현대적으로 재해석한 심플하고 모던한 객실",
+        "deluxe_room" : "동양적 요소를 현대적으로 재해석한 심플하고 모던한 객실",
+        "suite_room" : "동양적 요소를 현대적으로 재해석한 심플하고 모던한 객실"
+      },
+      "room_desc" : {
+        "double" : "더블",
+        "twin" : "트윈",
+        "triple" : "트리플",
+        "max": "최대",
+        "man" : "명",
+        "namsan" : "남산",
+        "city" :"시티뷰"
+      }
+    },
+    "popup" : {
+      "rooms_title" : {
+        "use_info" : "이용 안내",
+        "room_service" : "객실 서비스",
+        "amenity" : "어메니티",
+        "notice" : "안내사항"
+      },
+      "room_service" : {
+        "service_1" : "객실 Iot",
+        "service_1_2" : "제어 태블릿",
+        "service_2" : "공조 시스템",
+        "service_2_2" : "최적의 습도유지",
+        "service_3" : "온수매트",
+        "service_4" : "Wi-Fi",
+        "service_5" : "유선 인터넷",
+        "service_6" : "LED TV",
+        "service_7" : "미니바",
+        "service_8" : "개인금고"
+      },
+      "amenity" : {
+        "amenity_1" : "웰컴",
+        "amenity_1_2" : "드링크",
+        "amenity_2_1" : "각종",
+        "amenity_2_2" : "티 서비스",
+        "amenity_3_1" : "최고급",
+        "amenity_3_2" : "침구류",
+        "amenity_4_1" : "헤어",
+        "amenity_4_2" : "드라이기",
+        "amenity_5" : "전기포트",
+        "amenity_6_1" : "배쓰",
+        "amenity_6_2" : "어메니티4종",
+        "amenity_7" : "목욕가운",
+        "amenity_8" : "슬리퍼"
+      },
+      "etc" : {
+        "checkin" : "체크인",
+        "checkout" : "체크아웃",
+        "notice" : "전 객실은 금연구역으로 지정되어 있습니다."
+      }
+    }
+  },
+  "reservation" : {
+    "force_input" : "필수입력",
+    "option_input" : "선택사항",
+    "option_input_desc" : "선택사항을 모두 선택해 주세요",
+    "option_input_desc2" : "추가하실 옵션을 선택해 주세요",
+    "information_text_1" : "일정을 먼저 선택해주세요",
+    "user_name" : "예약자명",
+    "user_email" : "이메일",
+    "user_phone" : "연락처",
+    "user_email_helptext" : "정확한 이메일 주소를 입력해 주세요.",
+    "user_phone_helptext" : "숫자만 입력해주세요.",
+    "user_organ" : "주최기관",
+    "user_festival" : "행사명",
+    "msg_step_1" : "식당을 선택해 주세요",
+    "msg_step_2" : "날짜를 선택해 주세요",
+    "msg_step_2_2" : "일정을 선택해 주세요",
+    "msg_step_3" : "시간을 선택해 주세요",
+    "msg_step_4" : "인원을 선택해 주세요",
+    "msg_step_5" : "장소를 선택해 주세요",
+    "msg_step_6" : "객실과 인원을 선택해 주세요",
+    "msg_step_7": "객실 타입을 선택해 주세요",
+    "title_step_1" : "다이닝",
+    "title_step_2" : "날짜",
+    "title_step_3" : "시간",
+    "title_step_3_1" : "시",
+    "title_step_3_2" : "분",
+    "title_step_3_3" : "사용시간",
+    "title_time_allday" : "종일",
+    "title_step_3_add" : "시간대를 선택해주세요",
+    "title_step_4" : "인원",
+    "title_step_4_add" : "객실 당 투숙 인원",
+    "title_step_4_1" : "일반",
+    "title_step_4_2" : "소인",
+    "title_step_4_2_add" : "소인(~11세)",
+    "title_step_5" : "장소",
+    "title_step_6" : "객실",
+    "title_reservation" : "예약",
+    "title_group_reservation" : "단체예약",
+    "title_room_reservation" : "객실예약",
+    "title_confirm" : "예약 내용 확인",
+    "title_base_four" : "예약정보",
+    "title_base_six" : "예약 기본정보",
+    "group_part" : {
+      "floor_12" : "중규모연회장",
+      "floor_11" : "소규모연회장",
+      "floor_3" : "소규모연회장"
+    },
+    "avene_type" : {
+      "type_1" : "비즈니스",
+      "type_2" : "연회",
+      "type_3" : "세미나"
+    },
+    "gropu_part_title" : {
+      "fandb" : "F&B 타입",
+      "table_type" : "테이블 타입",
+      "base_supply" : "기본제공 부대시설",
+      "add_supply" : "추가요청 부대시설",
+      "gropu_menu_rent_price" : "연회장 대관료",
+      "gropu_menu_rent_price_add" : "기본",
+      "gropu_menu_rent_price_add2" : "시간사용별로 다름",
+      "gropu_menu_entry_max" : "타입별 최대 수용인원",
+      "gropu_menu_seat" : "석",
+      "gropu_menu_option_free" : "부대시설",
+      "gropu_menu_option_non_free" : "추가요청 부대시설(유료)",
+      "gropu_menu_list" : "메뉴안내",
+      "gropu_menu_type" : "타입"
+    },
+    "gropu_default_option" : {
+      "main_title_1" : "음향· 영상장비",
+      "main_title_2" : "부대시설",
+      "screen" : "스크린",
+      "projector" : "빔프로젝트",
+      "wireless_mike" : "무선 마이크",
+      "pin_mike" : "핀 마이크",
+      "phase" : "단상",
+      "banner" : "현수막",
+      "hanger" : "행거",
+      "blind" : "블라인드",
+      "partition" : "파티션",
+      "parking" : "주차공간"
+    },
+    "gropu_add_option" : {
+      "karaoke" : "노래방 기기",
+      "karaoke_price" : "(30만원)",
+      "amp" : "이동식 앰프",
+      "amp_price" : "(10만원)",
+      "television" : "이동식 TV",
+      "television_price" : "(10만원)",
+      "meal" : "식사제공",
+      "meal_price" : "(별도처리)"
+    },
+    "dinner_information" : {
+      "selling_time" : "영업시간 안내",
+      "title_holiday" : "휴무일",
+      "holiday" : "정기휴점(매주 일요일)",
+      "title_phone" : "연락처",
+      "title_position" : "위치",
+      "title_entry_number" : "수용인원",
+      "max_120" : "최대 120명",
+      "menu" : "메뉴",
+      "all_menu" : "메뉴 전체"
+    },
+    "room_gallery" : {
+      "mini_title" : "객실 상세 정보",
+      "day_per_price" : "원/1박",
+      "room_info_desc" : {
+        "studio_room" : "심플하고 모던한 스텐다드 객실로 아름다운 동양풍의 모던한 인테리어와 최고급 침구류로 기대 이상의 만족감을 느끼실 수 있습니다.",
+        "deluxe_room" : "심플하고 모던한 스텐다드 객실로 아름다운 동양풍의 모던한 인테리어와 최고급 침구류로 기대 이상의 만족감을 느끼실 수 있습니다.",
+        "suite_room" : "심플하고 모던한 스텐다드 객실로 아름다운 동양풍의 모던한 인테리어와 최고급 침구류로 기대 이상의 만족감을 느끼실 수 있습니다."
+      },
+      "reservation_finished" : "예약 마감"
+    },
+    "calendar_select" : "선택",
+    "calendar_disable" : "마감",
+    "calendar_today" : "오늘",
+    "calendar_nights" : "박",
+    "room_add_option" : {
+      "month_day" : "{{month}}월 {{day}}일",
+      "breakfast" : "조식",
+      "desert_cake" : "케이크",
+      "desert_fruit" : "과일바구니",
+      "desert_snack" : "다과세트",
+      "desert_wine" : "와인",
+      "per_breakfast" : "1인 기준",
+      "location" : "스테이락 3층",
+      "msg_select_day_person" : "숙박 날짜별로 인원을 선택해 주세요",
+      "count" : "수량",
+      "room_service" : "룸 서비스 신청"
+    },
+    "room_step_title" : {
+      "step_1" : "객실 선택",
+      "step_2" : "정보입력 및 결제",
+      "step_3" : "예약완료"
+    },
+    "room_settle" : {
+      "total_price" : "총 결제금액",
+      "include_tax" : "VAT 포함",
+      "room_price" : "객실 금액",
+      "breakfast_price" : "조식 금액",
+      "option_price" : "추가옵션 금액",
+      "regist_custom_info" : "고객정보입력",
+      "regist_custom_info_msg" : "객실 별 투숙객이 다를 경우",
+      "regist_custom_name" : "투숙객명",
+      "regist_custom_first_name" : "성",
+      "regist_custom_second_name" : "이름",
+      "regist_custom_phone_country" : "국가번호",
+      "regist_custom_phone" : "휴대폰번호",
+      "regist_custom_email" : "이메일주소",
+      "regist_custom_add_servie" : "추가요청(선택)",
+      "regist_custom_settle_info" : "결제정보",
+      "regist_custom_card_no" : "카드번호",
+      "regist_custom_card_limit" : "유효기간",
+      "regist_custom_settle_search" : "예약조회",
+      "regist_custom_settle_password" : "{{foreword}}비밀번호{{aftreword}}",
+      "regist_custom_settle_confirm" : "확인",
+      "regist_custom_settle_password_msg" : "예약 조회시 사용할 비밀번호를 입력해주세요",
+      "regist_custom_settle_confirm_msg" : "비밀번호를 다시 입력해주세요",
+      "regist_custom_cancel_rule" : "취소규정",
+      "regist_custom_cancel_rule_msg" : "신용카드 정보는 개런티/위약금 결제를 위해 이용되며, 객실요금은 추후 체크인 시 결제됩니다.",
+      "regist_custom_cancle_eight" : "입실 8일전",
+      "regist_custom_cancle_three" : "입실 3일전",
+      "regist_custom_cancle_two" : "입실2일전 및 No-Show",
+      "regist_custom_penalty_no" : "취소 비용 없음",
+      "regist_custom_penalty_30" : "총 객실료의 30% 상당의 수수료 발생",
+      "regist_custom_penalty_100" : "총 객실료의 100% 부과",
+      "regist_custom_agree_all" : "결제를 위해 약관에 모두 동의합니다",
+      "regist_custom_agree_1" : "개인정보의 수집·이용 목적",
+      "regist_custom_agree_2" : "수집하는 개인정보의 항목",
+      "regist_custom_agree_3" : "개인정보의 보유·이용 기간",
+      "regist_custom_must":"(필수)",
+      "regist_custom_read_view" : "전문보기"
+    }
+  },
+  "login" : {
+    "signin" : "로그인",
+    "input_email" : "Email Address",
+    "input_userID" : "ID",
+    "title_welcome" : "{{name}}님 환영합니다.",
+    "input_password" : "Password",
+    "rememberme" : "Remember me",
+    "forgot_password" : "Forgot password?",
+    "signup" : "Sign Up"
+  },
+  "messages": {
+      "success": {
+        "created": "성공적으로 등록되었습니다.",
+        "updated": "성공적으로 수정되었습니다.",
+        "deleted": "성공적으로 삭제되었습니다."
+      },
+      "info" : {
+        "reservation_1" : "인원, 날짜, 시간, 장소를 모두 선택해 주세요",
+        "reservation_success" : "예약이 완료되었습니다.",
+        "reservation_failed" : "예약중 오류가 발생하였습니다. 잠시후 다시 이용해주십시요."
+      },
+      "errors": {
+        "required": "필수 입력 항목입니다.",
+        "required_id": "아이디는 필수 입력 항목입니다.",
+        "required_pw": "비밀번호는 필수 입력 항목입니다.",
+        "invalidEmail": "유효한 이메일 주소가 아닙니다.",
+        "invalidCredential": "아이디 또는 비밀번호를 잘못 입력했습니다.",
+        "et_error": "에러가 발생하였습니다."
+      }
+  }
+}

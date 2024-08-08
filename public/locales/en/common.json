@@ -1,0 +1,369 @@
+{
+  "projectName": "성원 푸드몰",     
+  "title": "title",
+  "hello": "Hello",
+  "gotohome" : "Go to the home page",
+  "gotoabout" : "Go to the about page",
+  "locale": {
+    "locale_kr": "한국어",
+    "locale_en": "English",
+    "locale_ja": "日本語",
+    "locale_cn": "中语"
+  },
+  "common" : {
+    "navname" : {
+      "home" : "Home",
+      "login" :"Login",
+      "logout" :"Logout",
+      "party" : "Venue",
+      "rooms" : "Rooms",
+      "reservation" : "Reservation",
+      "intro" : "About Us",
+      "access" : "Access",
+      "information" : "Information",
+      "sns" : "Now SNS",
+      "inquiry" : "inquiry",
+      "contactus" : "Contact Us",
+      "search" : "Search",
+      "signup" : "Sign Up"
+    },
+    "header" : {
+      "info_menu_1" : "Information",
+      "info_menu_2" : "Notice",
+      "info_menu_3" : "FAQ",
+      "info_menu_4" : "Inquiry"
+    },
+    "menu" : {
+      "footer_menu_1" : "Terms of Use",
+      "footer_menu_2" : "privacy policy",
+      "footer_menu_3" : "Information",
+      "footer_menu_4" : "Store entry inquiry"
+    },
+    "floor" : {
+      "leftfloor" : "FoodMall",
+      "rightfloor" : "Stayrak",
+      "foodmall_1f" : "Atelier",
+      "foodmall_2f" : "Sushino",
+      "foodmall_3f" : "SungwonJung",
+      "foodmall_5f" : "Loof",
+      "stayrak_2f" : "Restaurant",
+      "stayrak_3f" : "Buffet",
+      "stayrak_4f" : "Rooms",
+      "stayrak_11f" : "Venue"
+    },
+    "banquet" : {
+      "floor_12" : "Venue(Medium)",
+      "floor_11" : "Venue(Small)",
+      "floor_3" : "Venue(Small)"
+    },
+    "word" : {
+      "man" : "Person",
+      "prev" : "Previous",
+      "next" : "Next",
+      "confirm" : "Confirm",
+      "cancel" : "Cancel",
+      "close" : "Close",
+      "weekly" : {
+        "sunday" : "Sun",
+        "monday" : "Mon",
+        "tuesday" : "Tue",
+        "wednesday" : "Wed",
+        "thursday" : "Thu", 
+        "friday" : "Fri",
+        "saturday" : "Sat"
+      },
+      "won" : "￦"
+    }
+  },
+  "main" : {
+    "information" : {
+      "main_1_title" : "Notice",
+      "main_2_title" : "Custom Services",
+      "info_menu_1" : "FAQ",
+      "info_menu_2" : "Access",
+      "info_menu_3" : "Contact Us"
+    }
+  },
+  "sub" : {
+    "quickmenu" : {
+      "sungwonjung" : "Store info",
+      "banquet" : "Venue info",
+      "room" : " Room info",
+      "event" : "Event",
+      "reservation" : "Reservation"
+    },
+    "banquet_detail" : {
+      "middle_12_desc_1" : "This is a medium-sized banquet hall located on the 12th floor of the StayRak Hotel that can accommodate",
+      "middle_12_desc_2" : "various styles of events depending on the purpose, such as parties, seminars, and receptions for up to 120 people.",
+      "small_11_desc_1" : "This is a small-sized banquet hall located on the 11th floor of the StayRak Hotel that can accommodate",
+      "small_11_desc_2" : "various styles of events depending on the purpose, such as parties, seminars, and receptions for up to 120 people.",
+      "small_3_desc_1" : "This is a small-sized banquet hall located on the 3rd floor of the StayRak Hotel that can accommodate",
+      "small_3_desc_2" : "various styles of events depending on the purpose, such as parties, seminars, and receptions for up to 120 people.",
+      "more" : "See more"
+    },
+    "rooms_detail" : {
+      "room_type" : {
+        "studio_room" : "Studio Room",
+        "deluxe_room" : "DeluxeRoom",
+        "suite_room" : "Suite Room"
+      },
+      "room_info_title" : {
+        "studio_room" : "A simple and modern guest with a modern reinterpretation of oriental elements",
+        "deluxe_room" : "A simple and modern guest with a modern reinterpretation of oriental elements",
+        "suite_room" : "A simple and modern guest with a modern reinterpretation of oriental elements"
+      },
+      "room_desc" : {
+        "double" : "Double",
+        "twin" : "Twin",
+        "triple" : "Triple",
+        "max": "Max",
+        "man" : "Person",
+        "namsan" : "Namsan",
+        "city" :"City View"
+      }
+    },
+    "popup" : {
+      "rooms_title" : {
+        "use_info" : "Information",
+        "room_service" : "Room Service",
+        "amenity" : "Amenities",
+        "notice" : "Notice"
+      },
+      "room_service" : {
+        "service_1" : "Room Iot",
+        "service_1_2" : "Control tablet",
+        "service_2" : "Air Condition System",
+        "service_2_2" : "Maintain optimal humidity",
+        "service_3" : "Hot water mat",
+        "service_4" : "Wi-Fi",
+        "service_5" : "Wired internet",
+        "service_6" : "LED TV",
+        "service_7" : "Mini bar",
+        "service_8" : "Personal safe"
+      },
+      "amenity" : {
+        "amenity_1" : "Welcomne",
+        "amenity_1_2" : "Dring",
+        "amenity_2_1" : "Various",
+        "amenity_2_2" : "Tea services",
+        "amenity_3_1" : "Top quality",
+        "amenity_3_2" : "Bedding",
+        "amenity_4_1" : "Hair",
+        "amenity_4_2" : "Dryer",
+        "amenity_5" : "Electric pot",
+        "amenity_6_1" : "Bathroom",
+        "amenity_6_2" : "4 types of Amenities",
+        "amenity_7" : "Bathrobe",
+        "amenity_8" : "Slipper"
+      },
+      "etc" : {
+        "checkin" : "Check-in",
+        "checkout" : "Check-out",
+        "notice" : "All rooms are designated as non-smoking areas."
+      }
+    }
+  },
+  "reservation" : {
+    "force_input" : "Required",
+    "option_input" : "Options",
+    "option_input_desc" : "Select all options",
+    "option_input_desc2" : "Select the option you would like to add",
+    "information_text_1" : "Select a schedule first",
+    "user_name" : "Reservation name",
+    "user_email" : "e-mail",
+    "user_phone" : "Telephone",
+    "user_email_helptext" : "Enter a correct email address.",
+    "user_phone_helptext" : "Enter only numbers.",
+    "user_organ" : "Host Organization",
+    "user_festival" : "Event Name",
+    "msg_step_1" : "Select a restaurant",
+    "msg_step_2" : "Select a date",
+    "msg_step_2_2" : "Select a schedule",
+    "msg_step_3" : "Select a time",
+    "msg_step_4" : "Select number of people",
+    "msg_step_5" : "Select a venue",
+    "msg_step_6" : "Select a room and number of people",
+    "msg_step_7": "Select a room type",
+    "title_step_1" : "DINING",
+    "title_step_2" : "DATE",
+    "title_step_3" : "TIME",
+    "title_step_3_1" : "Hour",
+    "title_step_3_2" : "Minute",
+    "title_step_3_3" : "Usage Time",
+    "title_step_3_add" : "Select a Hour first",
+    "title_time_allday" : "All day",
+    "title_step_4" : "PEOPLES",
+    "title_step_4_add" : "Per room",
+    "title_step_4_1" : "Adult",
+    "title_step_4_2" : "Children",
+    "title_step_4_2_add" : "Children(~11old)",
+    "title_step_5" : "Venue",
+    "title_step_6" : "Room",
+    "title_reservation" : "Reservation",
+    "title_group_reservation" : "Group Reservation",
+    "title_room_reservation" : "Room Reservation",
+    "title_confirm" : "Check reservation details",
+    "title_base_four" : "Reservation information",
+    "title_base_six" : "Reservation Basic information",
+    "group_part" : {
+      "floor_12" : "Venue(Medium)",
+      "floor_11" : "Venue(Small)",
+      "floor_3" : "Venue(Small)"
+    },
+    "avene_type" : {
+      "type_1" : "Business",
+      "type_2" : "Banquet",
+      "type_3" : "Seminar"
+    },
+    "gropu_part_title" : {
+      "fandb" : "F&B Type",
+      "table_type" : "Table Type",
+      "base_supply" : "Basic facilities provided",
+      "add_supply" : "Add Amenities",
+      "gropu_menu_rent_price" : "Banquet hall rental fee",
+      "gropu_menu_rent_price_add" : "Basic",
+      "gropu_menu_rent_price_add2" : "Varies depending on time usage",
+      "gropu_menu_entry_max" : "Maximum capacity by type",
+      "gropu_menu_seat" : "Seat",
+      "gropu_menu_option_free" : "Amenities",
+      "gropu_menu_option_non_free" : "Additional requested facilities (paid)",
+      "gropu_menu_list" : "Menu information",
+      "gropu_menu_type" : "Type"
+    },
+    "gropu_default_option" : {
+      "main_title_1" : "Audio & Video",
+      "main_title_2" : "Amenities",
+      "screen" : "Screen",
+      "projector" : "Beam Projetor",
+      "wireless_mike" : "Wireless Microphone",
+      "pin_mike" : "Pin Microphone",
+      "phase" : "Phase",
+      "banner" : "Banner",
+      "hanger" : "Hanger",
+      "blind" : "Blind",
+      "partition" : "Partition",
+      "parking" : "Parking"
+    },
+    "gropu_add_option" : {
+      "karaoke" : "Karaoke machine",
+      "karaoke_price" : "(300,000￦)",
+      "amp" : "Removable Amp",
+      "amp_price" : "(100,000￦)",
+      "television" : "Removable TV",
+      "television_price" : "(100,000￦)",
+      "meal" : "Meals provided",
+      "meal_price" : "(Separate)"
+    },
+    "dinner_information" : {
+      "selling_time" : "Business hours information",
+      "title_holiday" : "Closed day",
+      "holiday" : "Regularly closed (every Sunday)",
+      "title_phone" : "Contact",
+      "title_position" : "location",
+      "title_entry_number" : "Capacity",
+      "max_120" : "Up to 120 people",
+      "menu" : "Menu",
+      "all_menu" : "Total of Menu"
+    },
+    "room_gallery" : {
+      "mini_title" : "Room details",
+      "day_per_price" : "￦/1night",
+      "room_info_desc" : {
+        "studio_room" : "This simple and modern standard room offers a beautiful oriental-style modern interior and the highest quality bedding, allowing you to feel more satisfied than expected.",
+        "deluxe_room" : "This simple and modern standard room offers a beautiful oriental-style modern interior and the highest quality bedding, allowing you to feel more satisfied than expected.",
+        "suite_room" : "This simple and modern standard room offers a beautiful oriental-style modern interior and the highest quality bedding, allowing you to feel more satisfied than expected."
+      },
+      "reservation_finished" : "Reservation is imposible"
+    },
+    "calendar_select" : "Selected",
+    "calendar_disable" : "Deadline",
+    "calendar_today" : "Today",
+    "calendar_nights" : "night",
+    "room_add_option" : {
+      "month_day" : "{{month}} {{day}}",
+      "breakfast" : "Breakfast",
+      "desert_cake" : "Cake",
+      "desert_fruit" : "Fruit basket",
+      "desert_snack" : "Refreshment set",
+      "desert_wine" : "Wine",
+      "per_breakfast" : "Per 1person",
+      "location" : "Stayrak 3F",
+      "msg_select_day_person" : "Select the number of people per stay date",
+      "count" : "Count",
+      "room_service" : "Request room service"
+    },
+    "room_step_title" : {
+      "step_1" : "Select Room",
+      "step_2" : "Enter information and pay",
+      "step_3" : "Reservation complete"
+    },
+    "room_settle" : {
+      "total_price" : "Total amount",
+      "include_tax" : "VAT included",
+      "room_price" : "Room amount",
+      "breakfast_price" : "Breakfast amount",
+      "option_price" : "Additional amount",
+      "regist_custom_info" : "Enter customer information",
+      "regist_custom_info_msg" : "When guests in each room is different",
+      "regist_custom_name" : "Guest name",
+      "regist_custom_first_name" : "Last name",
+      "regist_custom_second_name" : "First Name",
+      "regist_custom_phone_country" : "Country No.",
+      "regist_custom_phone" : "Phone number",
+      "regist_custom_email" : "Email Adress",
+      "regist_custom_add_servie" : "Additional request(Option)",
+      "regist_custom_settle_info" : "Payment information",
+      "regist_custom_card_no" : "Card number",
+      "regist_custom_card_limit" : "Expiration period",
+      "regist_custom_settle_search" : "Reservation inquiry",
+      "regist_custom_settle_password" : "{{foreword}}Password{{aftreword}}",
+      "regist_custom_settle_confirm" : "Confirm",
+      "regist_custom_settle_password_msg" : "Enter the password you will use when checking reservations",
+      "regist_custom_settle_confirm_msg" : "Re-enter your password",
+      "regist_custom_cancel_rule" : "Cancellation Policy",
+      "regist_custom_cancel_rule_msg" : "Credit card information will be used to pay the guarantee/penalty, and the room rate will be paid upon subsequent check-in.",
+      "regist_custom_cancle_eight" : "8 days before",
+      "regist_custom_cancle_three" : "3 days before",
+      "regist_custom_cancle_two" : "2 days before Or No-Show",
+      "regist_custom_penalty_no" : "No cancellation fee",
+      "regist_custom_penalty_30" : "A fee equivalent to 30%",
+      "regist_custom_penalty_100" : "A fee equivalent to 100%",
+      "regist_custom_agree_all" : "I agree to all terms and conditions for payment",
+      "regist_custom_agree_1" : "Purpose of collection and use of personal information",
+      "regist_custom_agree_2" : "Items of personal information collected",
+      "regist_custom_agree_3" : "Retention and use period of personal information",
+      "regist_custom_must":"(Essential)",
+      "regist_custom_read_view" : "View full text"
+    }
+  },
+  "login" : {
+    "signin" : "Sing In",
+    "input_email" : "Email Address",
+    "input_password" : "Password",
+    "input_userID" : "ID",
+    "title_welcome" : "{{name}} Welcome",
+    "rememberme" : "Remember me",
+    "forgot_password" : "Forgot password?",
+    "signup" : "Sign Up"
+  },
+  "messages": {
+      "success": {
+        "created": "성공적으로 등록되었습니다.",
+        "updated": "성공적으로 수정되었습니다.",
+        "deleted": "성공적으로 삭제되었습니다."
+      },
+      "info" : {
+        "reservation_1" : "Select the number of people, date, time, and location!",
+        "reservation_success" : "Your reservation has been completed.",
+        "reservation_failed" : "An error occurred during reservation. Please try again later."
+      },
+      "errors": {
+        "required": "This field is required",
+        "required_id": "ID is a required entry",
+        "required_pw": "Password is a required entry",
+        "invalidEmail": "This is not a valid email address.",
+        "invalidCredential": "You entered your ID or password incorrectly.",
+        "et_error": "An error occurred."
+      }
+  }
+}

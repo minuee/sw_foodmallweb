@@ -1,0 +1,3 @@
+rm -rf /Users/sungwon/Documents/ingWorks/sw_foodmallweb/*
+rsync -rub --delete --exclude={'node_modules','out','.git'} /Users/sungwon/Documents/ingWorks/sw_frontend_foodmallwep/* /Users/sungwon/Documents/ingWorks/sw_foodmallweb/
+rsync -rub --delete --exclude={'node_modules','out','.git'} /Users/sungwon/Documents/ingWorks/sw_frontend_foodmallwep/.gitignore /Users/sungwon/Documents/ingWorks/sw_foodmallweb/
